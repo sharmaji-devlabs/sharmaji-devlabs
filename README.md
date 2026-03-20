@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahul Sharma
 
-<!--
-**sharmaji-devlabs/sharmaji-devlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | Android & Flutter  
+🚀 Passionate about building real-world applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+- C++
+- Java
+- Flutter
+- HTML, CSS, JavaScript
+- SQL
+
+---
+
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- Advanced Flutter
+- Backend Development
+
+---
+
+## 🚀 Projects
+- 📱 Flutter Apps
+- 🌐 Web Projects
+- 💻 DSA Practice
+
+---
+
+## 🎯 Goal
+To become a Full Stack Developer and build impactful products.
+
+---
+
+## 📫 Connect with me
+- GitHub: [https://github.com/sharmaji-devlabs](https://github.com/sharmaji-devlabs/sharmaji-devlabs)
